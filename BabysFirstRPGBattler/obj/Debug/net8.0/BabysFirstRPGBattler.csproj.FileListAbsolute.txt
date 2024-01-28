@@ -1,0 +1,14 @@
+C:\Users\elire\source\repos\BabysFirstRPGBattler\BabysFirstRPGBattler\bin\Debug\net8.0\BabysFirstRPGBattler.exe
+C:\Users\elire\source\repos\BabysFirstRPGBattler\BabysFirstRPGBattler\bin\Debug\net8.0\BabysFirstRPGBattler.deps.json
+C:\Users\elire\source\repos\BabysFirstRPGBattler\BabysFirstRPGBattler\bin\Debug\net8.0\BabysFirstRPGBattler.runtimeconfig.json
+C:\Users\elire\source\repos\BabysFirstRPGBattler\BabysFirstRPGBattler\bin\Debug\net8.0\BabysFirstRPGBattler.dll
+C:\Users\elire\source\repos\BabysFirstRPGBattler\BabysFirstRPGBattler\bin\Debug\net8.0\BabysFirstRPGBattler.pdb
+C:\Users\elire\source\repos\BabysFirstRPGBattler\BabysFirstRPGBattler\obj\Debug\net8.0\BabysFirstRPGBattler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elire\source\repos\BabysFirstRPGBattler\BabysFirstRPGBattler\obj\Debug\net8.0\BabysFirstRPGBattler.AssemblyInfoInputs.cache
+C:\Users\elire\source\repos\BabysFirstRPGBattler\BabysFirstRPGBattler\obj\Debug\net8.0\BabysFirstRPGBattler.AssemblyInfo.cs
+C:\Users\elire\source\repos\BabysFirstRPGBattler\BabysFirstRPGBattler\obj\Debug\net8.0\BabysFirstRPGBattler.csproj.CoreCompileInputs.cache
+C:\Users\elire\source\repos\BabysFirstRPGBattler\BabysFirstRPGBattler\obj\Debug\net8.0\BabysFirstRPGBattler.dll
+C:\Users\elire\source\repos\BabysFirstRPGBattler\BabysFirstRPGBattler\obj\Debug\net8.0\refint\BabysFirstRPGBattler.dll
+C:\Users\elire\source\repos\BabysFirstRPGBattler\BabysFirstRPGBattler\obj\Debug\net8.0\BabysFirstRPGBattler.pdb
+C:\Users\elire\source\repos\BabysFirstRPGBattler\BabysFirstRPGBattler\obj\Debug\net8.0\BabysFirstRPGBattler.genruntimeconfig.cache
+C:\Users\elire\source\repos\BabysFirstRPGBattler\BabysFirstRPGBattler\obj\Debug\net8.0\ref\BabysFirstRPGBattler.dll
